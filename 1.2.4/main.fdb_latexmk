@@ -1,8 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1665398642 "c:/Users/kopan/Github/my_lab_reports/1.2.4/main.tex" "main.pdf" "main" 1665398647
+["pdflatex"] 1665422119 "c:/Users/kopan/Github/my_lab_reports/1.2.4/main.tex" "main.pdf" "main" 1665422122
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663842989 81086 6fddea6b023469843de28035c851ec71 ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1662814634 29472 b5b7492bcfb2154bb1f4c639f961dc7e ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk" 1662814629 45168 76ea101a390918399e8f2de5949f9bd5 ""
+  "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0600.pk" 1662957749 14008 bed9a90cda2661d84ea5d03c5f8e3c19 ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0800.pk" 1662957125 18244 3f2f613cd68c4f47c38f9400f952de4d ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk" 1662814632 27028 ececb91e61a2e8297844e97b8d5cd06c ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1662814609 3308 eee81981029f67083258db36df06e523 ""
@@ -38,6 +39,7 @@
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1247596666 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
@@ -287,7 +289,7 @@
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/svgnam.def" 1656236890 4704 af34fa7e0b1716f97116d8a28100bb35 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "c:/Users/kopan/Github/my_lab_reports/1.2.4/main.tex" 1664808570 342 6b199364e1eace8c50f8dc28771f6157 ""
+  "c:/Users/kopan/Github/my_lab_reports/1.2.4/main.tex" 1665413362 342 6b199364e1eace8c50f8dc28771f6157 ""
   "images/1.png" 1665268647 7872 b7b0ac97814e5d41d8c86fb0d65115cd ""
   "images/2.png" 1665333449 20505 d6d0b1feaae8f626674dc5bdcff25911 ""
   "images/3.png" 1665335063 19125 cd261db027a176c99c5b96e6f2901fa2 ""
@@ -295,10 +297,10 @@
   "images/5.png" 1665335087 19892 b43ac1840c5c591cee36d9b9c4e08ec0 ""
   "images/6.png" 1665335094 16657 396ed85805cb7935b4a7f7a5c76b0453 ""
   "images/7.png" 1665335271 18143 079ed36f585dc95e578e1f887a59200b ""
-  "lectures/1chapter.tex" 1665398641 18605 77c9ad5873059a13eaee2b882f82d8a1 ""
-  "main.aux" 1665398646 4028 cc15566ef10cdd1e81f842743c136e59 "pdflatex"
-  "main.out" 1665398646 1365 512115c6f695108ed9fa8ec92b25631f "pdflatex"
-  "main.tex" 1664808570 342 6b199364e1eace8c50f8dc28771f6157 ""
+  "lectures/1chapter.tex" 1665422118 19794 27c29eccf8118ce68b4377c7c64319a5 ""
+  "main.aux" 1665422122 4445 7b0f10b4969362b79b495ee5c1881a89 "pdflatex"
+  "main.out" 1665422122 1365 512115c6f695108ed9fa8ec92b25631f "pdflatex"
+  "main.tex" 1665413362 342 6b199364e1eace8c50f8dc28771f6157 ""
   "preamble/preamble.tex" 1665333534 7703 d30c0562e8708d8089bf232a81d02fb7 ""
   (generated)
   "main.aux"
