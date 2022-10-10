@@ -1,10 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1665401282 "/Users/amirzaynullin/Desktop/workspace/Untitled-1.tex" "Untitled-1.pdf" "Untitled-1" 1665401283
-  "/Users/amirzaynullin/Desktop/workspace/Untitled-1.tex" 1665401282 11283 fc88633f1187f255d2f465ba9953a0e9 ""
+["pdflatex"] 1665422609 "/Users/amirzaynullin/Documents/GitHub/lab_reports/1.2.3/Untitled-1.tex" "Untitled-1.pdf" "Untitled-1" 1665422610
+  "/Users/amirzaynullin/Documents/GitHub/lab_reports/1.2.3/Untitled-1.tex" 1665422609 12122 a78163b26b09a205edf3909992530c4f ""
   "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1665262385 3308 eee81981029f67083258db36df06e523 ""
   "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1665262390 3304 6a543c07045572737981351171e0505e ""
   "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1665261458 3312 d199be9bd555944e2403193d58a0256a ""
   "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm" 1665262383 3316 0992aa03d0c75498a0b6fb905d9eaab6 ""
+  "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tfm" 1665262392 3252 bc0f8cc163ba94bbce20e59f671a255d ""
   "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm" 1665261971 3248 7c0b9d76a2cd84ed06764a4c6eea5de4 ""
   "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/larm0700.tfm" 1665261966 3256 b15a2ce2310c0038b96c5235b038f0eb ""
   "/Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm" 1665261968 3240 04766e423166ba63b7fbbf132b8618cb ""
@@ -18,8 +19,10 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1246382020 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1246382020 928 2dc8d444221b7a635bb58038579b861a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -232,8 +235,8 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665260064 2826438 b96347bb178d31a7b0d9814357442730 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "1.2.3 ustan.png.jpg" 1665262258 92573 672591e83a5c82e55e6cd65ee3ac5fa1 ""
-  "Untitled-1.aux" 1665401283 1313 c5f3d62a7e031850e387762f5d496a1a "pdflatex"
-  "Untitled-1.tex" 1665401282 11283 fc88633f1187f255d2f465ba9953a0e9 ""
+  "Untitled-1.aux" 1665422610 1313 c5f3d62a7e031850e387762f5d496a1a "pdflatex"
+  "Untitled-1.tex" 1665422609 12122 a78163b26b09a205edf3909992530c4f ""
   (generated)
   "Untitled-1.aux"
   "Untitled-1.log"

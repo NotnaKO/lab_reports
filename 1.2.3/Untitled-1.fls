@@ -1,8 +1,8 @@
-PWD /Users/amirzaynullin/Desktop/workspace
+PWD /Users/amirzaynullin/Documents/GitHub/lab_reports/1.2.3
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/amirzaynullin/Desktop/workspace/Untitled-1.tex
+INPUT /Users/amirzaynullin/Documents/GitHub/lab_reports/1.2.3/Untitled-1.tex
 OUTPUT Untitled-1.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
@@ -989,6 +989,10 @@ INPUT 1.2.3 ustan.png.jpg
 INPUT ./1.2.3 ustan.png.jpg
 INPUT ./1.2.3 ustan.png.jpg
 INPUT /Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/amirzaynullin/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT Untitled-1.aux
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
