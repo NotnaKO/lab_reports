@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1665387928 "c:/Users/kopan/Github/my_lab_reports/1.2.4/main.tex" "main.pdf" "main" 1665387931
+["pdflatex"] 1665398642 "c:/Users/kopan/Github/my_lab_reports/1.2.4/main.tex" "main.pdf" "main" 1665398647
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663842989 81086 6fddea6b023469843de28035c851ec71 ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1662814634 29472 b5b7492bcfb2154bb1f4c639f961dc7e ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk" 1662814629 45168 76ea101a390918399e8f2de5949f9bd5 ""
@@ -41,6 +41,7 @@
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
+  "C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1247596673 31764 459c573c03a4949a528c2cc7f557e217 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1656236434 151254 6babc5fd35bcaab99970dd3ba17ef5b3 ""
@@ -294,9 +295,9 @@
   "images/5.png" 1665335087 19892 b43ac1840c5c591cee36d9b9c4e08ec0 ""
   "images/6.png" 1665335094 16657 396ed85805cb7935b4a7f7a5c76b0453 ""
   "images/7.png" 1665335271 18143 079ed36f585dc95e578e1f887a59200b ""
-  "lectures/1chapter.tex" 1665387927 15000 1c915a5b1000f281934a683dfc494cc2 ""
-  "main.aux" 1665387930 3620 0d8a7e8523eeafc16ad3362605754c3b "pdflatex"
-  "main.out" 1665387930 1039 f7edefb9c41b05f7ddc03b88cd62e89f "pdflatex"
+  "lectures/1chapter.tex" 1665398641 18605 77c9ad5873059a13eaee2b882f82d8a1 ""
+  "main.aux" 1665398646 4028 cc15566ef10cdd1e81f842743c136e59 "pdflatex"
+  "main.out" 1665398646 1365 512115c6f695108ed9fa8ec92b25631f "pdflatex"
   "main.tex" 1664808570 342 6b199364e1eace8c50f8dc28771f6157 ""
   "preamble/preamble.tex" 1665333534 7703 d30c0562e8708d8089bf232a81d02fb7 ""
   (generated)

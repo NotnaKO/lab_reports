@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.10)  10 OCT 2022 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.10)  10 OCT 2022 13:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1240,64 +1240,64 @@ Package hyperref Info: Link coloring ON on input line 6.
 \openout4 = `main.out'.
 
  (lectures/1chapter.tex<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 18.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 15.
  (C:\Users\kopan\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 18.
+(Font)              using `OML/cmr/m/it' instead on input line 15.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 18.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 18.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 18.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 18.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 15.
 (C:\Users\kopan\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 18.
+(Font)              using `OMS/cmr/m/n' instead on input line 15.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
 (C:\Users\kopan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
  (C:\Users\kopan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 18.
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 15.
  (C:\Users\kopan\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 18.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 18.
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 15.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 15.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 18.
+(Font)              using `PD1/pdf/m/n' instead on input line 15.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 18.
-LaTeX Font Info:    No file PUcmr.fd. on input line 18.
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 15.
+LaTeX Font Info:    No file PUcmr.fd. on input line 15.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 18.
+(Font)              using `PU/pdf/m/n' instead on input line 15.
 
 [1
 
 {C:/Users/kopan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-<images/1.png, id=45, 218.8175pt x 375.4025pt>
+<images/1.png, id=54, 218.8175pt x 375.4025pt>
 File: images/1.png Graphic file (type png)
 <use images/1.png>
-Package pdftex.def Info: images/1.png  used on input line 58.
+Package pdftex.def Info: images/1.png  used on input line 55.
 (pdftex.def)             Requested size: 120.92421pt x 207.45726pt.
  [2 <./images/1.png (PNG copy)>]
 
@@ -1306,66 +1306,70 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] [4]
-<images/2.png, id=86, 329.23pt x 307.1475pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4]
+<images/2.png, id=90, 329.23pt x 307.1475pt>
 File: images/2.png Graphic file (type png)
 <use images/2.png>
-Package pdftex.def Info: images/2.png  used on input line 232.
+Package pdftex.def Info: images/2.png  used on input line 218.
 (pdftex.def)             Requested size: 213.31125pt x 199.00612pt.
-<images/3.png, id=88, 319.1925pt x 307.1475pt>
+<images/3.png, id=92, 319.1925pt x 307.1475pt>
 File: images/3.png Graphic file (type png)
 <use images/3.png>
-Package pdftex.def Info: images/3.png  used on input line 236.
+Package pdftex.def Info: images/3.png  used on input line 222.
 (pdftex.def)             Requested size: 213.31125pt x 205.26283pt.
-<images/4.png, id=89, 305.14pt x 293.095pt>
+<images/4.png, id=93, 305.14pt x 293.095pt>
 File: images/4.png Graphic file (type png)
 <use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 241.
+Package pdftex.def Info: images/4.png  used on input line 227.
 (pdftex.def)             Requested size: 213.31125pt x 204.89674pt.
-<images/5.png, id=90, 362.35374pt x 307.1475pt>
+<images/5.png, id=94, 362.35374pt x 307.1475pt>
 File: images/5.png Graphic file (type png)
 <use images/5.png>
-Package pdftex.def Info: images/5.png  used on input line 245.
+Package pdftex.def Info: images/5.png  used on input line 231.
 (pdftex.def)             Requested size: 213.31125pt x 180.8124pt.
-<images/6.png, id=91, 356.33125pt x 307.1475pt>
+<images/6.png, id=95, 356.33125pt x 307.1475pt>
 File: images/6.png Graphic file (type png)
 <use images/6.png>
-Package pdftex.def Info: images/6.png  used on input line 250.
+Package pdftex.def Info: images/6.png  used on input line 236.
 (pdftex.def)             Requested size: 213.31125pt x 183.86812pt.
-<images/7.png, id=92, 356.33125pt x 307.1475pt>
+<images/7.png, id=96, 356.33125pt x 307.1475pt>
 File: images/7.png Graphic file (type png)
 <use images/7.png>
-Package pdftex.def Info: images/7.png  used on input line 254.
+Package pdftex.def Info: images/7.png  used on input line 240.
 (pdftex.def)             Requested size: 213.31125pt x 183.86812pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [5] [6 <./images/2.png> <./images/3.png> <./images/4.png> <./images/5.png> <./images/6.png> <./images/7.png>] (main.aux)
+[5 <./images/2.png> <./images/3.png>] [6 <./images/4.png> <./images/5.png> <./images/6.png> <./images/7.png>] [7]) [8] (main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F7EDEFB9C41B05F7DDC03B88CD62E89F;1039.
+(rerunfilecheck)             Checksum: 512115C6F695108ED9FA8EC92B25631F;1365.
  ) 
 Here is how much of TeX's memory you used:
- 32329 strings out of 478338
- 651982 string characters out of 2836700
+ 32336 strings out of 478338
+ 652042 string characters out of 2836700
  944294 words of memory out of 3000000
- 49938 multiletter control sequences out of 15000+600000
+ 49940 multiletter control sequences out of 15000+600000
  480581 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,14n,88p,1308b,465s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (6 pages, 243007 bytes).
+ 89i,17n,88p,1308b,546s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\kopan\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/kopan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (8 pages, 266250 bytes).
 PDF statistics:
- 306 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 346 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
 
