@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666632266 "c:/Users/kopan/Github/my_lab_reports/1.2.2/main.tex" "main.pdf" "main" 1666632268
+["pdflatex"] 1667147112 "c:/Users/kopan/Github/my_lab_reports/1.2.2/main.tex" "main.pdf" "main" 1667147114
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666625829 81086 6fddea6b023469843de28035c851ec71 ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1662814634 29472 b5b7492bcfb2154bb1f4c639f961dc7e ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1662814628 36852 adb4e8efbafe5677fec9b37bbe8f2cbf ""
@@ -139,11 +139,11 @@
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/was/icomma.sty" 1081497500 1056 df058db1896806f044e2233bb506d425 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/kopan/Github/my_lab_reports/1.2.2/main.tex" 1666632266 6684 a66ec58a0b58a155da236139c6d5ff34 ""
+  "c:/Users/kopan/Github/my_lab_reports/1.2.2/main.tex" 1667147109 14457 d7c7c817b2b5a1e42fbd95c991e87b0e ""
   "images/Маятник.png" 1666622571 67504 de54e2e4a09275aa4e15aed4bbff81c0 ""
-  "main.aux" 1666632268 2132 db5e9b3afe655f4a5c13626130dc511b "pdflatex"
-  "main.out" 1666632268 913 bef91eba062965caed6d08e0db0ae9c8 "pdflatex"
-  "main.tex" 1666632266 6684 a66ec58a0b58a155da236139c6d5ff34 ""
+  "main.aux" 1667147114 3975 26d0fddecf48fafa56c31c9b8bde3c2d "pdflatex"
+  "main.out" 1667147114 1698 871b3a6fed5b9af6ed02bbbf7b6f93fc "pdflatex"
+  "main.tex" 1667147109 14457 d7c7c817b2b5a1e42fbd95c991e87b0e ""
   (generated)
   "main.aux"
   "main.log"
