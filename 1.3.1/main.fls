@@ -838,8 +838,8 @@ INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1728.tfm
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1728.tfm
-INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1200.tfm
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
+INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1200.tfm
 INPUT C:\Users\kopan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\kopan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\kopan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -865,6 +865,7 @@ INPUT C:\Users\kopan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\images\1.png
 INPUT .\images\1.png
 INPUT images\1.png
@@ -872,7 +873,6 @@ INPUT .\images\1.png
 INPUT .\images\1.png
 INPUT .\images\1.png
 INPUT .\images\1.png
-INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\images\2.png
 INPUT .\images\2.png
 INPUT images\2.png
@@ -883,12 +883,12 @@ INPUT .\images\2.png
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
+INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
+INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk
-INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
-INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
 INPUT C:\Users\kopan\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2074.pk
