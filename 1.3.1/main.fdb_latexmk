@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1667286354 "c:/Users/kopan/Github/my_lab_reports/1.3.1/main.tex" "main.pdf" "main" 1667286357
+["pdflatex"] 1667286521 "c:/Users/kopan/Github/my_lab_reports/1.3.1/main.tex" "main.pdf" "main" 1667286524
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667242263 279790 5e1a8079436103bd8d180788c7dc8eb0 ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1662814609 3308 eee81981029f67083258db36df06e523 ""
   "C:/Users/kopan/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1662814617 3304 6a543c07045572737981351171e0505e ""
@@ -139,12 +139,12 @@
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/was/icomma.sty" 1081497500 1056 df058db1896806f044e2233bb506d425 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/kopan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/kopan/Github/my_lab_reports/1.3.1/main.tex" 1667286349 15284 967da5ee4e9536280cde9d01aed1b229 ""
+  "c:/Users/kopan/Github/my_lab_reports/1.3.1/main.tex" 1667286519 15926 e3afc7cbdf6e76aefb45f7120b2c635d ""
   "images/1.png" 1667232857 62536 e729ab8727d536b8fbbfc8827e8f47a0 ""
   "images/2.png" 1667232857 52677 10c6162b3a76a6f48a0a8ed3a1728db6 ""
-  "main.aux" 1667286356 3318 13524ada4d8b33c6c875f67caa92b26d "pdflatex"
-  "main.out" 1667286356 2307 c552dd8086e9b63b23dc3b35a9cdb6af "pdflatex"
-  "main.tex" 1667286349 15284 967da5ee4e9536280cde9d01aed1b229 ""
+  "main.aux" 1667286523 3318 d2dab41ba981cf1b704786f7764549be "pdflatex"
+  "main.out" 1667286523 2307 c552dd8086e9b63b23dc3b35a9cdb6af "pdflatex"
+  "main.tex" 1667286519 15926 e3afc7cbdf6e76aefb45f7120b2c635d ""
   (generated)
   "main.aux"
   "main.log"
